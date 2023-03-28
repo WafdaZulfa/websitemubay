@@ -1,0 +1,7 @@
+
+  .footbar{
+    z-index: 999;
+    margin-top: 300px;
+    position: relative;
+    width: 100%;
+  }
