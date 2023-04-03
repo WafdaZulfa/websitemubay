@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {Carousel, Form} from 'react-bootstrap'
-import heroImage2 from '../assets/images/full/bg6.png'
+import heroImage2 from '../assets/images/full/bg6.jpg'
 import heroImage3 from '../assets/images/full/bg5.jpeg'
 
 const Hero = (props) => {

@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, Col, Row, Card } from 'react-bootstrap'
 import news1 from '../assets/images/full/1.jpg'
 import news2 from '../assets/images/full/2.jpg'
-import news3 from '../assets/images/full/3.jpeg'
+import news3 from '../assets/images/full/3.jpg'
 import { BiNews } from "react-icons/bi"
 
 const News = () => {

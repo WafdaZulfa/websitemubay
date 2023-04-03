@@ -9,10 +9,11 @@ const PanelAdmin = (props) => {
     const handleSubmitHero1 = (e) => {
         e.preventDefault();
         props.onGantiHero1(hero1Baru);
+        setHero1Baru('')
     };
 
     const handleUbahHero1 = (e) => {
-        setHero1Baru(URL.createObjectURL(e.target.files[0]));
+        setHero1Baru(e.target.files[0]);
     };
 
 
